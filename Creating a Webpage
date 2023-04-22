@@ -1,0 +1,41 @@
+
+<body>
+    <div> 
+        <h1> 
+            Cole Orlandini
+        </h1>
+    </div>
+    <div> 
+        <img src="photo.jpg" id="photo">
+    </div>
+    <div>
+        <h2> 
+            Favorite Music Artists 
+            <ul>
+                <li>State Champs</li>
+                <li>Cal Scruby</li>
+                <li>The Maine</li>
+                <li>Denzel Curry</li>
+                <li>Puppet</li>
+            </ul>
+        </h2>
+    </div>
+    <div>
+        <h2>Favorite Films</h2>
+        <ol>
+            <li>[REC]</li>
+            <li>Night of the Living Dead</li>
+            <li>28 Days Later</li>
+            <li>Train to Busan</li>
+            <li>Left 4 Dead</li>
+        </ol>
+    </div>
+    <div> 
+        <a href='https://www.meta.com/'> 
+            My Profile 
+        </a> 
+    
+    </div>
+</body>
+
+</html>
